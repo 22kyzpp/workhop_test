@@ -57,7 +57,7 @@ def updateBoard(data, currentTurn, userInput):
     # userInput refers to the number that the user entered during this turn
 
     # figure out a way to update the board
-
+help
 
     pass # remove this line when you have completed this function
 
